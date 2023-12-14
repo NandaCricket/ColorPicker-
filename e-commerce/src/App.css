@@ -1,0 +1,46 @@
+#container {
+  padding-top: 20px;
+  width: 320px;
+  height: 300px;
+  text-align: center;
+  background-color: lightblue;
+}
+#btnGreen {
+  width: 60px;
+  height: 60px;
+  background-color:#00FF00;
+  border-radius: 10px;
+  
+  margin-right: 5px;
+}
+
+#btnRed {
+  width: 60px;
+  height: 60px;
+  background-color: #FF0000;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+#btnBlue {
+  width: 60px;
+  height: 60px;
+  background-color:#0000FF;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+#btnBrown {
+  width: 60px;
+  height: 60px;
+  background-color: #964B00;
+  border-radius: 10px;
+}
+#bg-para {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
